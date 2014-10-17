@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[zpj:home|Door43 (zpj)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-zpj|d43-zpj repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-zpj/archive/master.zip|d43-zpj.zip]]
+
+**Recent Changes**
+{{changes>ns = zpj}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/zpj|Ethnologue data]]
+
